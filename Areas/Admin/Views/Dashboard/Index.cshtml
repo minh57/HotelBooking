@@ -1,0 +1,41 @@
+﻿@{ 
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Admin Dashboard</h1>
+<div class="dashboard-info">
+      <p>Xin chào, <strong>@User.Identity.Name</strong></p>
+        <p>Quyền:
+           @if (User.IsInRole("Admin"))
+            {
+               <span>Admin</span>
+           }
+           else
+            {
+                <span>User</span>
+            }
+        </p>
+</div>
+
+<div class="dashboard-action">
+    <ul>
+        <li>
+            <a href="@Url.Action("Index","News",new {area = "Admin"})">Quản lý bài viết</a>
+        </li>
+        <li>
+            <a href="~/CKFinderScripts/ckfinder.html" target="blank">Quản lý file</a>
+        </li>
+        <li>
+            @using (Html.BeginForm("Logout","Account", new {area = "Admin"}, FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <button type="submit">Đăng xuất</button>
+            }
+        </li>
+    </ul>
+</div>
+
+
+
+

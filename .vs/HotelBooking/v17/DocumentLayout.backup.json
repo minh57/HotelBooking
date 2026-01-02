@@ -1,96 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual project\\HotelBooking\\",
+  "WorkspaceRootPath": "D:\\Visual project\\GitHub\\HotelBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HotelBooking||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\github\\hotelbooking\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\models\\newsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\newsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\models\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\models\\newscreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\newscreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\app_start\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\github\\hotelbooking\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\models\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\models\\newsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\newsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\models\\newscreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:models\\newscreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\HotelBooking\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|D:\\Visual project\\GitHub\\HotelBooking\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F83A6699-0A6D-420E-A6DB-6324CFCC32B4}|HotelBooking.csproj|d:\\visual project\\hotelbooking\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,30 +118,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LogIn.cshtml",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\Account\\LogIn.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\LogIn.cshtml",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\Account\\LogIn.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\LogIn.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-01T06:42:40.515Z",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:37:22.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T09:38:22.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T06:41:50.259Z",
               "EditorCaption": ""
@@ -131,261 +162,297 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IdentityConfig.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\App_Start\\IdentityConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\App_Start\\IdentityConfig.cs",
-              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA2wDkAAAAmAAAAAAAAAA==",
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T06:25:02.366Z",
+              "WhenOpened": "2026-01-02T11:02:35.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Models\\Identity\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\Identity\\ApplicationUser.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Models\\Identity\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\Identity\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T06:22:16.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HotelBooking",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\HotelBooking.csproj",
-              "RelativeDocumentMoniker": "HotelBooking.csproj",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\HotelBooking.csproj",
-              "RelativeToolTip": "HotelBooking.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-01T06:12:54.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.Auth.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\App_Start\\Startup.Auth.cs",
-              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\App_Start\\Startup.Auth.cs",
-              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T05:30:11.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Startup.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Startup.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAADgv2EAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T05:03:23.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NewsController.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAwwFoAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T12:50:27.483Z",
+              "WhenOpened": "2026-01-01T06:25:02.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\packages.config",
-              "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\packages.config",
-              "RelativeToolTip": "packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-01T04:53:29.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T04:37:18.316Z",
+              "WhenOpened": "2026-01-01T05:30:11.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\Web.config",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Web.config",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\Web.config",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Web.config",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-29T16:33:26.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\News\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Create.cshtml",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\News\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-27T10:28:13.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Index.cshtml",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-18T12:45:01.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "NewsModel.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Models\\NewsModel.cs",
-              "RelativeDocumentMoniker": "Models\\NewsModel.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Models\\NewsModel.cs",
-              "RelativeToolTip": "Models\\NewsModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:00:13.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-18T12:47:59.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NewsCreateVM.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Models\\NewsCreateVM.cs",
-              "RelativeDocumentMoniker": "Models\\NewsCreateVM.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Models\\NewsCreateVM.cs",
-              "RelativeToolTip": "Models\\NewsCreateVM.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T11:39:24.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoriesModel.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Models\\CategoriesModel.cs",
-              "RelativeDocumentMoniker": "Models\\CategoriesModel.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Models\\CategoriesModel.cs",
-              "RelativeToolTip": "Models\\CategoriesModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T11:23:20.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T17:25:24.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T09:35:35.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Global.asax.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Global.asax.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Global.asax.cs",
               "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T12:31:25.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentitySeed.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\IdentitySeed.cs",
+              "RelativeToolTip": "App_Start\\IdentitySeed.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T07:29:17.297Z",
+              "WhenOpened": "2026-01-02T10:02:14.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Account\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\LogIn.cshtml",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Account\\LogIn.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\LogIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T09:40:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-01T04:53:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-02T10:12:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:50:27.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:47:46.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewsModel.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\NewsModel.cs",
+              "RelativeDocumentMoniker": "Models\\NewsModel.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\NewsModel.cs",
+              "RelativeToolTip": "Models\\NewsModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:00:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesModel.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\CategoriesModel.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriesModel.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\CategoriesModel.cs",
+              "RelativeToolTip": "Models\\CategoriesModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:23:20.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\Identity\\ApplicationUser.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:22:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:37:18.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Web.config",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Web.config",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Web.config",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-29T16:33:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-27T10:28:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T12:45:01.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T12:47:59.976Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "NewsCreateVM.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\NewsCreateVM.cs",
+              "RelativeDocumentMoniker": "Models\\NewsCreateVM.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Models\\NewsCreateVM.cs",
+              "RelativeToolTip": "Models\\NewsCreateVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T11:39:24.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T17:25:24.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T09:35:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T07:29:17.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ContactsController.cs",
-              "DocumentMoniker": "D:\\Visual project\\HotelBooking\\Controllers\\ContactsController.cs",
+              "DocumentMoniker": "D:\\Visual project\\GitHub\\HotelBooking\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
-              "ToolTip": "D:\\Visual project\\HotelBooking\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\Visual project\\GitHub\\HotelBooking\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "Controllers\\ContactsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T07:27:52.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T07:27:52.711Z"
             }
           ]
         }

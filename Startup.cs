@@ -95,7 +95,7 @@ namespace HotelBooking
                          *
                          * For example:
                          */
-                        config.AddBackend("default", new LocalStorage(@"C:\files"));
+                        config.AddBackend("uploads", new LocalStorage(HostingEnvironment.MapPath("~/Uploads"),"/Uploads"));
                         config.AddResourceType("images", builder => builder.SetBackend("default", "images"));
                         config.AddAclRule(new AclRule(
                             new StringMatcher("*"),

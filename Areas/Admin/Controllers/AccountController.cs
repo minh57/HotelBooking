@@ -9,9 +9,11 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using HotelBooking.Models.Identity;
 using HotelBooking.App_Start;
+using HotelBooking.Models;
 
 namespace HotelBooking.Areas.Admin.Controllers
 {
+    
     [AllowAnonymous]
     public class AccountController : Controller
     {

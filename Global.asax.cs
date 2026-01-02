@@ -16,6 +16,8 @@ namespace HotelBooking
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            IdentitySeed.Seed();
         }
+
     }
 }

@@ -9,6 +9,7 @@ using Microsoft.Owin.Security.Cookies;
 using Owin;
 using HotelBooking.Models.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
+using HotelBooking.App_Start;
 
 namespace HotelBooking
 {
@@ -17,7 +18,9 @@ namespace HotelBooking
         public void ConfigureAuth(IAppBuilder app)
         {
             app.CreatePerOwinContext(ApplicationDbContext.Create);
-            app.CreatePerOwinContext<UserManager<ApplicationUser>>(CreateUserManager);
+            //app.CreatePerOwinContext<UserManager<ApplicationUser>>(CreateUserManager);
+            app.CreatePerOwinContext<ApplicationUserManager>(ApplicationUserManager.Create);
+            app.CreatePerOwinContext <ApplicationSignInManager>(ApplicationSignInManager.Create);
             app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
                 AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
