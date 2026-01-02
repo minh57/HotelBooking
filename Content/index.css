@@ -1,0 +1,103 @@
+﻿:root {
+    --primary-color: blue;
+    --bg-primary-color: blue;
+    --secondary-color: orange;
+    --bg-secondary-color: orange;
+    --neutral-color: #ccc;
+    --bg-neutral-color: #ccc;
+    --text-neutral-color: #333;
+}
+
+.head-of-the-page {
+    height: 30px;
+    width: 80%;
+    background-color: black;
+    display: inline-block
+}
+
+.title-home-page {
+    color: white;
+}
+
+.container-buy-now-button {
+    background-color: black;
+    width: 20%;
+    display: inline;
+}
+
+a {
+    color: black !important;
+    text-decoration: none;
+}
+
+.btn {
+    color: white !important;
+}
+
+.order .btn, .order input {
+    color: black !important;
+    border: 1px solid black;
+}
+
+#dat-phong {
+    z-index: 9999;
+}
+
+.btn-custom, #scroll-to-bottom {
+    color: black !important
+}
+
+
+/* .container img{
+    border-radius: 10px;
+} */
+.room-price {
+    font-size: larger;
+    font-weight: bold;
+    color: brown;
+}
+
+#footer {
+    background-color: var(--bg-neutral-color);
+    color: var(--text-neutral-color);
+}
+
+    #footer h1, #footer p, #footer a {
+        color: var(--text-neutral-color) !important;
+    }
+
+#item-description p {
+    color: var(--text-neutral-color) !important;
+}
+
+
+.roomOrder {
+    display: block;
+    border: none;
+    padding: 20px;
+    background-color: var(--bg-primary-color) !important;
+    color: white !important;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.carousel-indicators img {
+    height: 70px !important;
+    width: auto !important;
+}
+
+#log-in-btn:hover {
+    border-bottom: 2px solid rgb(160, 24, 24);
+}
+
+#log-in-btn {
+    border-bottom: 2px solid white;
+}
+
+#register-btn:hover {
+    border-bottom: 2px solid rgb(160, 24, 24);
+}
+
+#register-btn {
+    border-bottom: 2px solid white;
+}

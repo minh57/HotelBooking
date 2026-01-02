@@ -1,0 +1,2 @@
+D:\Visual project\HotelBooking\obj\Debug\HotelBooking.csproj.AssemblyReference.cache
+D:\Visual project\HotelBooking\obj\Debug\HotelBooking.csproj.CoreCompileInputs.cache

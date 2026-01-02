@@ -1,0 +1,47 @@
+﻿
+@model HotelBooking.Models.NewsModel 
+@{
+    ViewBag.Title = "Sửa thông tin";
+}
+
+
+<div class="cardContainer mw-100">
+
+    <h2>Sửa thông tin</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(m => m.ID)
+        <div>
+            <label>Tiêu đề</label>
+            @Html.TextBoxFor(m => m.Title, new {@class = "form-control"})
+
+        </div>
+        <div>
+            <label>Chuyên mục</label>
+            @Html.TextBoxFor(m => m.ID_Category, new { @class = "form-control" })
+        </div>
+        <div>
+            <label>Mô tả</label>
+            @Html.TextBoxFor(m => m.Detail, new { @class = "form-control" })
+        </div>
+        <div>
+            <label>Ảnh xem trước</label>
+            @Html.TextBoxFor(m => m.Thumbnail, new { @class = "form-control" })
+        </div>
+        <div>
+            <label>Chi tiết</label>
+            @Html.TextBoxFor(m => m.Description, new { @class = "form-control" })
+        </div>
+        <div>
+            <label>Từ khóa</label>
+            @Html.TextBoxFor(m => m.Keywords, new { @class = "form-control" })
+        </div>
+        <div class="form-check">
+            <label>Hiển thị</label>
+            @Html.CheckBoxFor(m => m.isPublic, new { @class = "form-check-input" })
+        </div>
+        <button type="submit" class="btn btn-primary">Lưu</button>
+    }
+
+</div>

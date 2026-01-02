@@ -1,0 +1,73 @@
+﻿
+@model List<HotelBooking.Models.NewsModel>
+@{
+    ViewBag.Title = "Quản lý tin tức";
+}
+
+
+<a class="btn btn-success" href="~/Admin/News/Create"><i class="bi bi-plus-circle"></i> Thêm sản phẩm</a>
+<table id="myTable" class=" table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tiêu đề</th>
+            <th>Chuyên mục</th>
+            <th>Mô tả</th>
+            <th>Ảnh xem trước</th>
+            <th>Chi tiết</th>
+            <th>Từ khóa</th>
+            <th>Hiển thị</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count(); i++)
+        {
+            <tr>
+                <td>@Model[i].ID</td>
+                <td>
+                    @Model[i].Title
+            </td>
+            <td>@Model[i].Name</td>
+            <td>@Model[i].Description</td>
+            <td>@Model[i].Thumbnail</td>
+            <td>@Model[i].Detail</td>
+            <td>@Model[i].Keywords</td>
+            <td>
+                @(Model[i].isPublic == true ? "Có" :
+                    Model[i].isPublic == false ? "Không" : "Chưa xác định")
+            </td>
+            <td class="text-center">
+                <a class="btn btn-warning"
+                   href="@Url.Action("Edit","News",new {area = "Admin",id = Model[i].ID })"
+                   ><i class="bi bi-pencil"></i></a>
+                <a class="btn btn-danger"
+                   href="@Url.Action("Delete","News",new {area = "Admin",id = Model[i].ID })"
+                   onclick="return Confirm("Bạn có chắc chắn muốn xóa dữ liệu này")"
+                   ><i class="bi bi-trash"></i></a>
+            </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div id="paging" class="text-center">
+    <div class="btn-toolbar mb-3 d-block" role="toolbar" aria-label="Toolbar with button groups">
+        <div class="btn-group me-2" role="group" aria-label="First group">
+            <button type="button" class="btn btn-outline-secondary">1</button>
+            <button type="button" class="btn btn-outline-secondary">2</button>
+            <button type="button" class="btn btn-outline-secondary active">3</button>
+            <button type="button" class="btn btn-outline-secondary">4</button>
+            <button type="button" class="btn btn-outline-secondary">5</button>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    function deleteItem(btn) {
+        let thTag = btn.parentElement;
+        let trTag = thTag.parentElement;
+        trTag.remove();
+    }
+</script>
